@@ -150,5 +150,13 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    		<developer>
+    				<name>George Hamilton</name>
+    				<email>hamilton.caelum2018@gmail.com</email>
+    		</developer>
+    
+    </developers>
 
 </project>
